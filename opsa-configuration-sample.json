@@ -1,8 +1,1 @@
-{
-  user: "XXXX",
-  password: "XXXX",
-  port: "XXXX",
-  path: "XXXX",
-  protocol: "XXXX",
-  host: "XX.XX.XX.XXX"
-}
+{"user":"xxxx","password":"xxxx","port":"8080","path":"opsa","protocol":"http","host":"xxx.xxx.xxx.xxx"}
